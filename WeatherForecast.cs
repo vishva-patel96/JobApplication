@@ -10,4 +10,5 @@ namespace JobApplication
 
         public string? Summary { get; set; }
     }
+
 }
